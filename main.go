@@ -3,6 +3,7 @@ package main
 import "fmt"
 import "salutgo/util"
 import . "salutgo/practise"
+import _ "salutgo/oauth2.0"
 
 func main() {
 	fmt.Println("hello")
